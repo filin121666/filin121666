@@ -7,7 +7,7 @@
 ### :computer: &nbsp; Обо мне :
 Я Backend разработчик из России.
 - Занимаюсь Backend разработкой на Python.
-- Изучаю Python, Golang, C/C++, Arduino C, JavaScript.
+- Изучаю Python, Golang, C/C++, Arduino C, JavaScript и Computer Science.
 
 ___
 
