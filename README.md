@@ -45,4 +45,4 @@ ___
 <!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filin121666&theme=dark&hide_border=true&border_radius=9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filin121666&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filin121666&theme=dark&hide_border=true&border_radius=9)](https://github.com/anuraghazra/github-readme-stats)
