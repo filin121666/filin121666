@@ -12,32 +12,32 @@
 ___
 
 ### :hammer_and_wrench: &nbsp; Языки, технологии и инструменты :
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/llvm/llvm-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/llvm/llvm-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40">&nbsp;
 
 ___
 
