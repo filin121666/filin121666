@@ -38,6 +38,8 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" width="40" height="40">&nbsp;
+<img src="https://docs.pydantic.dev/latest/favicon.png" width="40" height="40">&nbsp;
 
 ___
 
