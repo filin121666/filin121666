@@ -5,7 +5,7 @@
 <h1 align="center">Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :computer: &nbsp; Обо мне :
-Я Backend разработчик из России.
+Я, Шанин Кирилл Сергеевич, Backend разработчик из России.
 - Занимаюсь Backend разработкой на Python.
 - Изучаю Python, Golang, C/C++, Arduino C, JavaScript и Computer Science.
 
@@ -40,6 +40,7 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" width="40" height="40">&nbsp;
 <img src="https://docs.pydantic.dev/latest/favicon.png" width="40" height="40">&nbsp;
+<img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" width="40" height"40">&nbsp;
 
 ___
 
