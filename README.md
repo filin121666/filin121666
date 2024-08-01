@@ -7,7 +7,7 @@
 ### :computer: &nbsp; Обо мне :
 Я, Шанин Кирилл Сергеевич, Backend разработчик из России.
 - Занимаюсь Backend разработкой на Python.
-- Изучаю Python, Golang, C/C++, Arduino C, JavaScript и Computer Science.
+- Изучаю Python, C/C++, Arduino C и Computer Science.
 
 ___
 
