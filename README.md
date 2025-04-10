@@ -6,11 +6,13 @@
 
 ### :computer: &nbsp; Обо мне :
 Я, Шанин Кирилл Сергеевич, Backend разработчик из России.
-- Занимаюсь Backend разработкой на Python.
+- Занимаюсь Backend разработкой на Python (фреймворк FastAPI).
 - Изучаю Python, C/C++, Arduino C и Computer Science.
+- Подробнее обо мне можно узнать по [ссылке](https://filin121666.github.io/about_me/)
 
 ___
-
+<!-- Ниже устаревший списой технологий и инструментов -->
+<!-- 
 ### :hammer_and_wrench: &nbsp; Языки, технологии и инструменты :
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" height="40">&nbsp;
@@ -40,12 +42,20 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" width="40" height="40">&nbsp;
 <img src="https://docs.pydantic.dev/latest/favicon.png" width="40" height="40">&nbsp;
-<img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" width="40" height="40">&nbsp;
+<img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" width="40" height="40">&nbsp; -->
 
-___
 
 ### :fire: &nbsp; Моя статистика :
 <!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filin121666&theme=dark&hide_border=true&border_radius=9&date_format=j%20M%5B%20Y%5D&no-cache=1)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filin121666&theme=dark&hide_border=true&border_radius=9&no-cache=1)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=filin121666&theme=dark&hide_border=true&border_radius=9&date_format=j%20M%5B%20Y%5D&no-cache=1" />
+</div>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filin121666&theme=dark&hide_border=true&border_radius=9&date_format=j%20M%5B%20Y%5D&no-cache=1)](https://git.io/streak-stats) -->
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filin121666&theme=dark&hide_border=true&border_radius=9&no-cache=1" />
+</div>
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filin121666&theme=dark&hide_border=true&border_radius=9&no-cache=1)](https://github.com/anuraghazra/github-readme-stats) -->
